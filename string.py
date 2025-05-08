@@ -1,6 +1,6 @@
 
 text = input("Enter a string: ")
-vowels = "aeiou"
+vowels = "aeiouAEIOU"
 count = 0
 for char in text:
     if char in vowels:
