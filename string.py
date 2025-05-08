@@ -1,6 +1,6 @@
 
 text = input("Enter a string: ")
-consonants = "bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ"
+consonants = "abc"
 
 count = 0
 for char in text:
