@@ -1,6 +1,10 @@
 
 text = input("Enter a string: ")
-consonants = "abc"
+
+
+
+consonants = "mn"
+
 
 count = 0
 for char in text:
